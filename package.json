@@ -1,5 +1,5 @@
 {
-  "name": "telegram-image-embeder",
+  "name": "hexo-telegram-image-embeder",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
