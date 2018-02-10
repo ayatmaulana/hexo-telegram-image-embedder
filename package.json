@@ -1,0 +1,10 @@
+{
+  "name": "telegram-image-embeder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parse-url": "^3.0.2"
+  },
+  "author": "Ayat Maulana"
+}
