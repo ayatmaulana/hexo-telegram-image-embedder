@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "parse-url": "^3.0.2"
+    "url-parse": "^1.4.0"
   },
   "author": "Ayat Maulana"
 }
