@@ -1,6 +1,8 @@
 
 
-[![image-to-ascii](https://i.imgur.com/geIOlCO.png)](#)
+<p align="center">
+    <img src="https://i.imgur.com/geIOlCO.png" />
+</p>
 
 <h1 align="center">
    hexo-telegram-image-embeder 
@@ -14,8 +16,9 @@
 </p>
 
 
-
-[![image-to-ascii](https://i.imgur.com/Ejsc21S.png)](#)
+<p align="center">
+    <img src="https://i.imgur.com/Ejsc21S.png" />
+</p>
 
 ## :cloud: Installation
 
