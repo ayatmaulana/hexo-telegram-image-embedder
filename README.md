@@ -1,11 +1,11 @@
 
 
 <p align="center">
-    <img src="https://i.imgur.com/geIOlCO.png" />
+    <img src="https://s22.postimg.cc/lyljodno1/hexo-telegram-image-embedder.png" />
 </p>
 
 <h1 align="center">
-   hexo-telegram-image-embeder 
+   hexo-telegram-image-embedder 
 </h1>
 
 
@@ -24,10 +24,10 @@
 
 ```sh
 # Using npm
-npm install --save hexo-telegram-image-embeder
+npm install --save hexo-telegram-image-embedder
 
 # Using yarn
-yarn add hexo-telegram-image-embeder
+yarn add hexo-telegram-image-embedder
 ```
 
 ## :clipboard: Example
